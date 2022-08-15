@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSCourse2022.ControlsCollection", "ITMO.CSCourse2022.ControlsCollection\ITMO.CSCourse2022.ControlsCollection.csproj", "{E71A2E3F-B23F-48C8-BC4C-E2045B6A0950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71A2E3F-B23F-48C8-BC4C-E2045B6A0950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71A2E3F-B23F-48C8-BC4C-E2045B6A0950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71A2E3F-B23F-48C8-BC4C-E2045B6A0950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71A2E3F-B23F-48C8-BC4C-E2045B6A0950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C346F9DC-68A5-4422-B1BB-993B6C4FC3A2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\bin\Debug\ITMO.CSCourse2022.WinContainer.exe.config
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\bin\Debug\ITMO.CSCourse2022.WinContainer.exe
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\bin\Debug\ITMO.CSCourse2022.WinContainer.pdb
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.csproj.AssemblyReference.cache
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.csproj.SuggestedBindingRedirects.cache
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.Form1.resources
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.Properties.Resources.resources
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.csproj.GenerateResource.cache
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.csproj.CoreCompileInputs.cache
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.exe
+E:\ITMO\TEST1\Labs2\Ex5\ITMO.CSCourse2022\ITMO.CSCourse2022.WinContainer\obj\Debug\ITMO.CSCourse2022.WinContainer.pdb

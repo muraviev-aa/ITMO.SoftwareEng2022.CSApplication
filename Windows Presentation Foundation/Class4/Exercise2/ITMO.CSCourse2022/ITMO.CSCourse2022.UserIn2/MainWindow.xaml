@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.CSCourse2022.UserIn2"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="ITMO.CSCourse2022.UserIn2.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RichTextBox x:Name="richTextBox1" Margin="0,217,0,0">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="Привет, Друг!"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <ToolBar Margin="0,0,0,228">
+            <!--<System:String>HorizontalAlignment="Left" Height="110" Margin="28,27,0,0" VerticalAlignment="Top" Width="739"</System:String>-->
+            <Button Click="Button_Click">Bold</Button>
+            <Button Click="Button_Click_1">Italic</Button>
+            <Slider x:Name="Slider1" Minimum="2" Maximum="72" Width="100" ValueChanged="Slider1_ValueChanged"></Slider>
+            <ComboBox Name="comboBox1" Width="75" SelectionChanged="comboBox1_SelectionChanged"></ComboBox>
+        </ToolBar>
+        
+
+    </Grid>
+</Window>
