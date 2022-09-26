@@ -5,6 +5,10 @@
 ### ИТМО 2022. Создание Windows приложений на C# ###
 ***Состав репозитория:***
 
-<strong>1. &#128194; Lab4. </strong> 
+<strong>1. &#128194; Windows Form. </strong> 
 
-+ <strong>&#128448; Lab1</strong> 
++ <strong>&#128448; Lab1</strong>. Упражнения 1, 2, 3, 4, 5.
++ <strong>&#128448; Lab2</strong>. Упражнения 1, 2, 3, 4, 5, 6, 7, 8.
++ <strong>&#128448; Lab3</strong>. Упражнения 1, 2.
++ <strong>&#128448; Lab5</strong>. Упражнения 1, 3.
++ <strong>&#128448; Lab7</strong>. Упражнение 1.
