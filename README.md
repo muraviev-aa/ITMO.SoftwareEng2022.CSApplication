@@ -12,3 +12,5 @@
 + <strong>&#128448; Lab3</strong>. Упражнения 1, 2.
 + <strong>&#128448; Lab5</strong>. Упражнения 1, 3.
 + <strong>&#128448; Lab7</strong>. Упражнение 1.
+
+<strong>2. &#128194; Windows Presentation Foundation. </strong> 
