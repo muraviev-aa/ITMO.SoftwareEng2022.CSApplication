@@ -22,5 +22,5 @@
 
 <strong>3. &#128194; Зачетное задание. </strong> 
 
-+ <strong>&#128448; Настольное Windows-приложение.</strong>
-+ <strong>&#128448; База GreatDB </strong>
++ <strong>&#128448; </strong> Настольное Windows-приложение.
++ <strong>&#128448; </strong> База данных GreatDB 
