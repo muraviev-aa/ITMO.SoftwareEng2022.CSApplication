@@ -25,6 +25,6 @@
 + <strong>&#128448; </strong> Настольное Windows-приложение.
 + <strong>&#128448; </strong> База данных GreatDB 
 ```diff
-login для подключения к базе данных: admin
-password для подключения к базе данных: admin
+login: admin
+password: admin
 ```
