@@ -14,3 +14,8 @@
 + <strong>&#128448; Lab7</strong>. Упражнение 1.
 
 <strong>2. &#128194; Windows Presentation Foundation. </strong> 
+
++ <strong>&#128448; Lab1</strong>. Упражнения 1, 2, 3, 4.
++ <strong>&#128448; Lab2</strong>. Упражнения 1, 2.
++ <strong>&#128448; Lab4</strong>. Упражнения 1, 2, 3.
++ <strong>&#128448; Lab19</strong>. Упражнения 1.
