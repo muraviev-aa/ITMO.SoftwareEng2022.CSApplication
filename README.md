@@ -55,4 +55,5 @@
 ```diff
 login: admin
 password: admin
+server: MS SQL Server
 ```
