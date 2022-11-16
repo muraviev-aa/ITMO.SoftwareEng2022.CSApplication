@@ -1,5 +1,5 @@
+## ITMO.SoftwareEng2022.CSApplication 
 <a name="readme-top"></a>
-## ITMO.SoftwareEng2022.CSApplication 	   	
 ### ИТМО 2022. Создание Windows приложений на C#
 
 <img src="https://ie.wampi.ru/2022/09/26/WF.jpg" alt="drawing" width="200"/> ___ <img src="https://ic.wampi.ru/2022/09/26/wpf.png" alt="drawing" width="200"/>
