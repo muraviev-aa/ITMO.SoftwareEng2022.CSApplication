@@ -5,7 +5,7 @@
 ### ИТМО 2022. Создание Windows приложений на C#
 
 <p align="center">
-<img src="https://ie.wampi.ru/2022/09/26/WF.jpg" alt="drawing" width="200"/> ___ <img src="https://ic.wampi.ru/2022/09/26/wpf.png" alt="drawing" width="200"/>
+<img src="images/wf.png" alt="drawing" width="200"/> ___ <img src="images/wpf.png" alt="drawing" width="200"/>
 </p>
 
 ***Состав репозитория:***
