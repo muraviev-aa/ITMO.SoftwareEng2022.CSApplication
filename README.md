@@ -1,7 +1,12 @@
-## ITMO.SoftwareEng2022.CSApplication 	   	
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+## ITMO.SoftwareEng2022.CSApplication 
+<a name="readme-top"></a>
 ### ИТМО 2022. Создание Windows приложений на C#
 
-<img src="https://ie.wampi.ru/2022/09/26/WF.jpg" alt="drawing" width="200"/> ___ <img src="https://ic.wampi.ru/2022/09/26/wpf.png" alt="drawing" width="200"/>
+<p align="center">
+<img src="images/wf.png" alt="drawing" width="200"/> ___ <img src="images/wpf.png" alt="drawing" width="200"/>
+</p>
 
 ***Состав репозитория:***
 
@@ -57,3 +62,4 @@ login: admin
 password: admin
 server: MS SQL Server
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
